@@ -1,0 +1,14 @@
+C:\Users\Preslav\source\repos\AlphabeticLetters\bin\Debug\netcoreapp3.1\AlphabeticLetters.exe
+C:\Users\Preslav\source\repos\AlphabeticLetters\bin\Debug\netcoreapp3.1\AlphabeticLetters.deps.json
+C:\Users\Preslav\source\repos\AlphabeticLetters\bin\Debug\netcoreapp3.1\AlphabeticLetters.runtimeconfig.json
+C:\Users\Preslav\source\repos\AlphabeticLetters\bin\Debug\netcoreapp3.1\AlphabeticLetters.runtimeconfig.dev.json
+C:\Users\Preslav\source\repos\AlphabeticLetters\bin\Debug\netcoreapp3.1\AlphabeticLetters.dll
+C:\Users\Preslav\source\repos\AlphabeticLetters\bin\Debug\netcoreapp3.1\AlphabeticLetters.pdb
+C:\Users\Preslav\source\repos\AlphabeticLetters\obj\Debug\netcoreapp3.1\AlphabeticLetters.csproj.AssemblyReference.cache
+C:\Users\Preslav\source\repos\AlphabeticLetters\obj\Debug\netcoreapp3.1\AlphabeticLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Preslav\source\repos\AlphabeticLetters\obj\Debug\netcoreapp3.1\AlphabeticLetters.AssemblyInfoInputs.cache
+C:\Users\Preslav\source\repos\AlphabeticLetters\obj\Debug\netcoreapp3.1\AlphabeticLetters.AssemblyInfo.cs
+C:\Users\Preslav\source\repos\AlphabeticLetters\obj\Debug\netcoreapp3.1\AlphabeticLetters.csproj.CoreCompileInputs.cache
+C:\Users\Preslav\source\repos\AlphabeticLetters\obj\Debug\netcoreapp3.1\AlphabeticLetters.dll
+C:\Users\Preslav\source\repos\AlphabeticLetters\obj\Debug\netcoreapp3.1\AlphabeticLetters.pdb
+C:\Users\Preslav\source\repos\AlphabeticLetters\obj\Debug\netcoreapp3.1\AlphabeticLetters.genruntimeconfig.cache
